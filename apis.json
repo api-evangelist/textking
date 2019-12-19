@@ -1,0 +1,53 @@
+{
+    "name": "TEXTKING",
+    "description": "Translation agency for modern translation solutions \u2714 Flexible \u2714 Personal \u2714 Efficient \u2013 more than 2,500 professional translators.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1526-textking.jpg",
+    "tags": [
+        "have api",
+        "localization",
+        "translations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/textking\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TEXTKING",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1526-textking.jpg",
+            "humanURL": "https:\/\/www.textking.com\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/textking-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/www.textking.com\/api"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/textking"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/textking"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/TextKing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TEXTKING_de"
+        }
+    ]
+}
